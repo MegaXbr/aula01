@@ -1,4 +1,4 @@
-Este é o arquivo de teste de reposição...
+﻿Este é o arquivo de teste de reposição...
 
 Aula Luan
 
@@ -8,3 +8,6 @@ Aula Luan
 TESTE
 
 Continua desse jeito aqui
+
+
+Ta afim de uns bagulhos diferenciados?
